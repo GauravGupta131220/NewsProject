@@ -1,0 +1,2 @@
+# NewsProject
+my readme file
